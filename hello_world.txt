@@ -1,0 +1,2 @@
+hello this is my first text with github repository
+im following the odin project so i can become a developer, i finished the fcc curriculum and now im doing the fondations course on the odin project
